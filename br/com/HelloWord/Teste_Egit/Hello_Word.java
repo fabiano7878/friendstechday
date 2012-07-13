@@ -1,4 +1,5 @@
 package br.com.HelloWord.Teste_Egit;
+import javax.swing.JOptionPane;
 
 public class Hello_Word {
 
@@ -7,7 +8,7 @@ public class Hello_Word {
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("Fabiano Egit");
+		JOptionPane.showMessageDialog(null,"Fabiano Egit");
 		// TODO Auto-generated method stub
 
 	}
